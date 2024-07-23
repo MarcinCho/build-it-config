@@ -1,2 +1,5 @@
 build:
   version: "1.0 dev"
+
+accounts:
+  key: "{cipher}bed5f00ccc0a96746abf4c8e27ae81842638bed2c3b1d34298d73186597bed55d55bf98adc73cb47df1d5c92ecd74fc6"
