@@ -1,2 +1,6 @@
 build:
   version: "1.0 dev"
+
+
+cards:
+  sample: "Checking if hookdeck works"
